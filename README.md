@@ -5,8 +5,11 @@
 ![logo](https://c.tenor.com/9gAQTpYexIIAAAAC/instagram-logo.gif)
 
 
-[![GitHub stars](https://img.shields.io/github/followers/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/InstaDetails/followers)
-[![GitHub stars](https://img.shields.io/github/stars/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)](https://github.com/TgCatUB/catuserbot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/InstaDetails/fork)
+
+
+
+[![GitHub stars](https://img.shields.io/github/stars/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/InstaDetails/stargazers)
 
 
 
