@@ -15,7 +15,7 @@
 
 
 
-### How To Install
+### How To Install [ Termux Available ]
 
 `$ pkg install -y git`
 
