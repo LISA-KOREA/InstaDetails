@@ -5,6 +5,7 @@
 ![logo](https://c.tenor.com/9gAQTpYexIIAAAAC/instagram-logo.gif)
 
 
+[![GitHub Followers](https://img.shields.io/github/Followers/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/InstaDetails/Followers)
 
 
 
