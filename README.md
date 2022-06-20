@@ -15,11 +15,13 @@
 
 
 
-### How To Install [ Termux Available ]
+### How To Install
 
 `$ pkg install -y git`
 
-`$ git clone https://github.com/LISA-KOREA/InstaDetails && cd InstaDetails`
+`$ git clone https://github.com/LISA-KOREA/InstaDetails`
+
+`$ cd InstaDetails`
 
 `$ python3 -m pip install -r requirements.txt`
 
@@ -29,5 +31,11 @@
 
 `$ python3 main.py -h`
 
-`-p, --post images info highlight`
+
+
+
+
+
+
+
 
