@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/github/followers/LISA-KOREA?label=Follow&style=social">
   </a>
 
-<a href="https://github.com/th3unkn0n/osi.ig/stargazers">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/osi.ig?style=social">
+<a href="https://github.com/LISA-KOREA/InstaDetails">
+    <img src="https://img.shields.io/github/stars/LISA-KOREA/InstaDetails?style=social">
   </a>
 
 ### How To Install
