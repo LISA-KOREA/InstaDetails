@@ -14,7 +14,7 @@
   </a>
 
 <a href="https://github.com/LISA-KOREA/InstaDetails">
-    <img src="https://img.shields.io/github/Forks/LISA-KOREA/InstaDetails?style=social">
+    <img src="https://img.shields.io/github/Forks/LISA-KOREA/InstaDetails?label=Forks&style=social">
   </a>
 
 
