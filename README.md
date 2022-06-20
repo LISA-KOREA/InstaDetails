@@ -13,6 +13,6 @@
     <img src="https://img.shields.io/github/stars/LISA-KOREA/InstaDetails?style=social">
   </a>
 
-[![GitHub forks](https://img.shields.io/github/forks/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/InstaDetails/fork)      
+                                  [![GitHub forks](https://img.shields.io/github/forks/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/InstaDetails/fork)      
 
 ### How To Install
