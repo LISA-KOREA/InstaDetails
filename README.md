@@ -5,6 +5,8 @@
 ![logo](https://c.tenor.com/9gAQTpYexIIAAAAC/instagram-logo.gif)
 
 
-
+<a href="https://github.com/LISA-KOREA/InstaDetails">
+    <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
+  </a>
 
 ### How To Install
