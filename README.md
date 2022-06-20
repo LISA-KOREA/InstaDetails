@@ -6,7 +6,7 @@
 
 
 [![GitHub forks](https://img.shields.io/github/forks/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/InstaDetails/fork)
-![Repo Size](https://img.shields.io/github/followers/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)
+![Repo Size](https://img.shields.io/github/Repo-Size/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)
 
 
 
