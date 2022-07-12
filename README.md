@@ -2,7 +2,7 @@
 
 
 
-![logo](https://c.tenor.com/9gAQTpYexIIAAAAC/instagram-logo.gif)
+![logo](https://qphs.fs.quoracdn.net/main-qimg-e76ee6dacc02b746222a42ac9c602404)
 
 
 [![GitHub forks](https://img.shields.io/github/forks/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/InstaDetails/fork)
