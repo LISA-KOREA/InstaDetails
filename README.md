@@ -10,7 +10,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/LISA-KOREA/InstaDetails?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/InstaDetails/stargazers)
 
 
-
+## Termux use
 
 ### How To Install
 
